@@ -1,8 +1,8 @@
-<h2 align="left">Hello World!🙏 I'm Sankar 🙋‍♂️ A Nepali Full Stack Web Developer 💡</h2>
+<h2 align="left">Hello World!🙏 I'm Sankar 🙋‍♂️ A Nepali Full Stack Software Developer 💡</h2>
 
 ###
 
-<p align="left">👨‍🏫 Teaching Fellow at TEJ Bootcamp (2025–Present)  <br>💻 Training fresh engineers to become skilled Full Stack Developers  <br><br>🧑‍💻 Software Developer at Aansh Tech (2 years)  <br>🛠️ Worked on MERN stack projects and full-cycle development  <br><br>🤖 Robotics Educator at KKIS (1 year)  <br>🎓 Mentored young students in the basics of robotics and innovation  <br><br>🎓 B.E. in Computer Engineering from Purwanchal Engineering Campus, TU, IOE  ( PUR-071-BCT )<br>📍 Passionate about tech, teaching, and continuous learning</p>
+<p align="left">👨‍🏫 Teaching Fellow at TEJ Bootcamp (2025–Present)  <br>💻 Training fresh engineers to become skilled Full Stack Developers  <br><br>🧑‍💻 Software Developer at Aansh Tech (2 years)  <br>🛠️ Worked on MERN stack projects and full-cycle development  <br><br>🤖 Robotics Educator at KKIS (1 year)  <br>🎓 Mentored young students in the basics of robotics and innovation  <br><br>🎓 B.E. in Computer Engineering from Purwanchal Engineering Campus, TU, IOE  <br>📍 Passionate about tech, teaching, and continuous learning</p>
 
 ###
 
