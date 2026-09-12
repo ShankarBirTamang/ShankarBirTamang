@@ -1,16 +1,24 @@
-<h2 align="left">Hello World!🙏 I'm Sankar 🙋‍♂️ A Nepali Full Stack Software Developer 💡</h2>
+<h2 align="left">Hello World!🙏 I'm Sankar 🙋‍♂️ Backend & Full Stack Software Engineer from Nepal 💡</h2>
 
 ###
 
-<p align="left">👨‍🏫 Teaching Fellow at TEJ Bootcamp (2025–Present)  <br>💻 Training fresh engineers to become skilled Full Stack Developers  <br><br>🧑‍💻 Software Developer at Aansh Tech (2 years)  <br>🛠️ Worked on MERN stack projects and full-cycle development  <br><br>🤖 Robotics Educator at KKIS (1 year)  <br>🎓 Mentored young students in the basics of robotics and innovation  <br><br>🎓 B.E. in Computer Engineering from Purwanchal Engineering Campus, TU, IOE  <br>📍 Passionate about tech, teaching, and continuous learning</p>
+<p align="left">
+💊 <b>Software Engineer @ PHIL, Inc.</b> (Dec 2025 – Present) — backend engineer on a healthcare / prescription-fulfillment platform.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Go core API · serverless partner-pharmacy pipeline on AWS (Lambda, Step Functions, SQS, DynamoDB, Terraform) · EDI 852/867 supply-chain automation · production debugging across MongoDB, PostgreSQL and Grafana/Loki.<br><br>
+👨‍🏫 <b>Teaching Fellow @ TEJ Fellowship</b> (May 2025 – Jan 2026) — mentored a cohort of early-career engineers through full-stack JavaScript (React, Node/Express, MongoDB), code reviews and capstone projects.<br><br>
+🧑‍💻 <b>Software Developer @ Aansh Tech</b> (2024 – 2025) — React / Node features for a school management product; full-cycle development.<br><br>
+🤖 <b>Robotics Educator @ KK International</b> (2024 – 2025) — taught Arduino-based robotics and electronics to young students.<br><br>
+🎓 B.E. in Computer Engineering — Purwanchal Engineering Campus, IOE, Tribhuvan University<br>
+📍 Passionate about backend systems, healthcare tech, teaching, and continuous learning
+</p>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sankar-bir-tamang-238a81155/" target="_blank">
+  <a href="https://www.linkedin.com/in/sankarbir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://sankar.jt19@gmail.com/" target="_blank">
+  <a href="mailto:sankar.jt19@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/1357703939025277048" target="_blank">
@@ -36,81 +44,62 @@
 
 ###
 
+<h4 align="left">Backend & Infra</h4>
 <div align="left">
-  <!-- Golang -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="golang logo" title="Golang" />
-
-  <!-- Kafka -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35" alt="kafka logo" title="Kafka" />
-
-  <!-- Redis -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo" title="Redis" />
-
-  <!-- Docker -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" title="Docker" />
-
-  <!-- PostgreSQL -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" title="PostgreSQL" />
-
-  <!-- JavaScript -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="JavaScript" />
-
-  <!-- TypeScript -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" title="TypeScript" />
-
-  <!-- React -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" title="React" />
-
-  <!-- HTML5 -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" title="HTML5" />
-
-  <!-- CSS3 -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" title="CSS3" />
-
-  <!-- TailwindCSS -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo" title="TailwindCSS" />
-
-  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="golang logo" title="Go" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" title="Node.js" />
-
-  <!-- Express -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" title="TypeScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" title="Express" />
-
-  <!-- Next.js -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" title="Next.js" />
-
-  <!-- MongoDB -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" title="MongoDB" />
-
-  <!-- Redux -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux logo" title="Redux" />
-
-
-  <!-- SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sql server logo" title="SQL Server" />
-
-  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="aws logo" title="AWS (Lambda, Step Functions, SQS, DynamoDB, S3)" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="terraform logo" title="Terraform" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="35" alt="github actions logo" title="GitHub Actions" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="35" alt="grafana logo" title="Grafana / Loki" />
 </div>
 
+<h4 align="left">Frontend</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" title="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux logo" title="Redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwindcss logo" title="TailwindCSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo" title="Flutter / Dart" />
+</div>
 
+###
+
+<h2 align="left">🚀 Featured Projects:</h2>
+
+###
+
+<p align="left">
+💊 <a href="https://github.com/ShankarBirTamang/pharmonico"><b>pharmonico</b></a> — Go · end-to-end simulation of U.S. specialty-pharmacy workflows: NCPDP SCRIPT intake, insurance adjudication, routing, payments and shipping.<br>
+🏥 <a href="https://github.com/ShankarBirTamang/MedRecords"><b>MedRecords</b></a> — Hardhat · Express · React · patient-centred blockchain medical records.<br>
+🛍️ <a href="https://github.com/ShankarBirTamang/project_luna"><b>project_luna</b></a> — TypeScript · e-commerce platform for an accessories & jewellery business.<br>
+📚 <a href="https://github.com/ShankarBirTamang/bootcamp-tej-fellows"><b>bootcamp-tej-fellows</b></a> — JavaScript curriculum and exercises used while teaching at TEJ Fellowship.
+</p>
 
 ###
 
