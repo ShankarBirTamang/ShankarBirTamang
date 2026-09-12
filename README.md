@@ -8,6 +8,8 @@
 👨‍🏫 <b>Teaching Fellow @ TEJ Fellowship</b> (May 2025 – Jan 2026) — mentored a cohort of early-career engineers through full-stack JavaScript (React, Node/Express, MongoDB), code reviews and capstone projects.<br><br>
 🧑‍💻 <b>Software Developer @ Aansh Tech</b> (2024 – 2025) — React / Node features for a school management product; full-cycle development.<br><br>
 🤖 <b>Robotics Educator @ KK International</b> (2024 – 2025) — taught Arduino-based robotics and electronics to young students.<br><br>
+📱 <b>Flutter Developer — Freelance</b> (2022 – 2023) — built cross-platform apps with Flutter/Dart; REST API integration, Provider/BLoC state management, custom widgets.<br><br>
+🚀 <b>Startup Tech Intern / Independent Consultant</b> (2020 – 2021) — built school-management and e-commerce systems with early-stage startups.<br><br>
 🎓 B.E. in Computer Engineering — Purwanchal Engineering Campus, IOE, Tribhuvan University<br>
 📍 Passionate about backend systems, healthcare tech, teaching, and continuous learning
 </p>
